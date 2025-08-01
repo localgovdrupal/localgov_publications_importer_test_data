@@ -1,0 +1,6 @@
+{
+    "name": "localgovdrupal/localgov_publications_importer_test_data",
+    "description": "Test data for localgovdrupal/localgov_publications_importer",
+    "type": "drupal-module",
+    "homepage": "https://github.com/localgovdrupal/localgov_publications_importer_test_data"
+}
