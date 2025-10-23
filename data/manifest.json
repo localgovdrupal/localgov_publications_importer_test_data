@@ -58,5 +58,23 @@
     "filename": "southwark/tenants_handbook.pdf",
     "title": "Tenants Handbook part 2: your tenancy",
     "page_count": 9
+  },
+  {
+    "filename": "southwark/HMO licensing conditions_1.pdf",
+    "title": "Private Rented Sector Property Licensing",
+    "page_count": 10,
+    "links": {
+      "2": [
+        "<a href=\"https://www.gov.uk/guidance/domestic-private-rented-property-minimum-energy-efficiency-standard-landlord-guidance\">Energy \nPerformance Certificate (EPC) Rating of less than ‘E’</a>"
+      ],
+      "4": [
+        "<a href=\"http://www.businesscompanion.info/en/quick-guides/product-safety/goods-in-rented-accommodation\">Business Companion</a>",
+        "<a href=\"https://www.southwark.gov.uk/home-owners-services/private-home-owners-and-landlords/private-rented-property-licensing?chapter=7\">Regulatory Reform (Fire \nSafety) Order 2005</a>",
+        "<a href=\"https://www.southwark.gov.uk/assets/attach/2940/LACORS-Fire-Safety-guide-April-2009-.pdf\">LACoRs Fire Guidance, available on our</a>"
+      ],
+      "6": [
+        "<a href=\"https://www.southwark.gov.uk/bins/lookup\">\uF0B7 The collection days for the refuse and recycling bins for the \nproperty</a>"
+      ]
+    }
   }
 ]
