@@ -2,62 +2,89 @@
   {
     "filename": "hammersmith-and-fulham/hf_business_plan_2022_to_23.pdf",
     "title": "H&F Council Business Plan 2022 to 23",
-    "page_count": 28
+    "page_count": 28,
+    "links": {}
   },
   {
     "filename": "southwark/26.11.24.-.Notice.Confirming.Stopping.Up.pdf",
     "title": "26.11.24 - Notice Confirming Stopping Up",
-    "page_count": 1
+    "page_count": 1,
+    "links": {
+      "0": [
+        "<a href=\"http://www.southwark.gov.uk/parking-streets-and-transport/road-closures/highway-stopping-orders\">www.southwark.gov.uk/parking-streets-and-transport/road-closures/highway-stopping-\norders</a>"
+      ]
+    }
   },
   {
     "filename": "southwark/5457 - LBS - Securing the Future of Council Housing MAIN_v7_Accessible.pdf",
     "title": "Securing the Future of Council Housing",
-    "page_count": 48
+    "page_count": 48,
+    "links": {}
   },
   {
     "filename": "southwark/Affordable-Workspace-Strategy.pdf",
     "title": "LBS Affordable Workspace Strategy 2025",
-    "page_count": 27
+    "page_count": 27,
+    "links": {}
   },
   {
     "filename": "southwark/Fairer, Greener, Safer Delivery Plan 2022 to 2026.pdf",
     "title": "Fairer, greener, safer – Southwark Council Delivery Plan 2022 – 2026",
-    "page_count": 16
+    "page_count": 16,
+    "links": {}
   },
   {
     "filename": "southwark/Final-Southwark-2030-strategy-v19.pdf",
     "title": "Final-Southwark-2030-strategy-v19.pdf",
-    "page_count": 31
+    "page_count": 31,
+    "links": {}
   },
   {
     "filename": "southwark/Southwark 2030 strategy.pdf",
     "title": "Southwark 2030 strategy.pdf",
-    "page_count": 29
+    "page_count": 29,
+    "links": {}
   },
   {
     "filename": "southwark/Southwark Maternity Commission Report Exec Summary.pdf",
     "title": "Southwark Maternity Commission report exec summary September 2024",
-    "page_count": 4
+    "page_count": 4,
+    "links": {}
   },
   {
     "filename": "southwark/Southwark Plan 2022 reduced 1.pdf",
     "title": "",
-    "page_count": 600
+    "page_count": 600,
+    "links": {}
   },
   {
     "filename": "southwark/Tobacco-control-strategy.pdf",
     "title": "Microsoft Word - Southwark Tobacco Control Strategy 2024-2030",
-    "page_count": 40
+    "page_count": 40,
+    "links": {}
   },
   {
     "filename": "southwark/lbs_cemetery_fees_adult_2024-2025.pdf",
     "title": "",
-    "page_count": 8
+    "page_count": 8,
+    "links": {
+      "0": [
+        "<a href=\"mailto:bereavementdocuments@southwark.gov.uk\">bereavementdocuments@southwark.gov.uk</a>"
+      ],
+      "5": [
+        "<a href=\"https://www.remembrance-books.com/honoroak/book-of-remembrance.html\">https://www.remembrance-\nbooks.com/honoroak/book-of-remembrance.html</a>"
+      ]
+    }
   },
   {
     "filename": "southwark/tenants_handbook.pdf",
     "title": "Tenants Handbook part 2: your tenancy",
-    "page_count": 9
+    "page_count": 9,
+    "links": {
+      "4": [
+        "<a href=\"mailto:housingfraud@southwark.gov.uk\">housingfraud@southwark.gov.uk or call</a>"
+      ]
+    }
   },
   {
     "filename": "southwark/HMO licensing conditions_1.pdf",
@@ -73,7 +100,40 @@
         "<a href=\"https://www.southwark.gov.uk/assets/attach/2940/LACORS-Fire-Safety-guide-April-2009-.pdf\">LACoRs Fire Guidance, available on our</a>"
       ],
       "6": [
-        "<a href=\"https://www.southwark.gov.uk/bins/lookup\">\uF0B7 The collection days for the refuse and recycling bins for the \nproperty</a>"
+        "<a href=\"https://www.southwark.gov.uk/bins/lookup\">\uF0B7 The collection days for the refuse and recycling bins for the \nproperty</a>",
+        "<a href=\"https://www.southwark.gov.uk/bins-and-recycling/recycling/what-goes-in-recycling\">what they can and can’t recycle</a>",
+        "<a href=\"https://www.southwark.gov.uk/bins-and-recycling/bulky-waste-collections\">dispose of bulky waste</a>",
+        "<a href=\"https://www.southwark.gov.uk/bins-and-recycling/\">General waste guidance from the Council’s website</a>"
+      ],
+      "7": [
+        "<a href=\"https://www.southwark.gov.uk/home-owners-services/private-home-owners-and-landlords/private-rented-property-licensing?chapter=7\">Read Southwark’s Standards for \nHMOs here.</a>"
+      ]
+    }
+  },
+  {
+    "filename": "southwark/Corporate Complaints Policy 2024.pdf",
+    "title": "Private Rented Sector Property Licensing",
+    "page_count": 10,
+    "links": {
+      "3": [
+        "<a href=\"https://www.southwark.gov.uk/council-and-democracy/complaints-comments-and-compliments/making-a-complaint\">Making a complaint - Southwark Council</a>",
+        "<a href=\"mailto:complaints@southwark.gov.uk\">complaints@southwark.gov.uk</a>"
+      ],
+      "5": [
+        "<a href=\"http://www.southwark.gov.uk/\">for further details on the above: www.southwark.gov.u</a>"
+      ],
+      "6": [
+        "<a href=\"http://thesource/tools-and-resources/promoting-document-accessibility-compliance-southw/\">Document Accessibility Compliance at Southwark.</a>"
+      ],
+      "10": [
+        "<a href=\"https://www.southwark.gov.uk/council-and-democracy/complaints-comments-and-compliments/arbitration\">panel. For more information on eligibility, please see the Southwark Arbitration page at:</a>",
+        "<a href=\"https://www.southwark.gov.uk/council-and-democracy/complaints-comments-and-compliments/arbitration\">Arbitration - Southwark Council</a>"
+      ],
+      "11": [
+        "<a href=\"mailto:dpo@southwark.gov.uk\">information is being handled, you may contact the Council’s Data Protection Officer by email dpo@southwark.gov.uk</a>",
+        "<a href=\"http://www.lgo.org.uk/\">www.lgo.org.uk</a>",
+        "<a href=\"http://www.housing-ombudsman.org.uk/\">www.housing-ombudsman.org.uk</a>",
+        "<a href=\"http://www.gov.uk/guidance/contact-the-building-safety-regulator\">www.gov.uk/guidance/contact-the-building-safety-regulator</a>"
       ]
     }
   }
