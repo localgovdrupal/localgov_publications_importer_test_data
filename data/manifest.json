@@ -82,7 +82,7 @@
     "page_count": 9,
     "links": {
       "4": [
-        "<a href=\"mailto:housingfraud@southwark.gov.uk\">housingfraud@southwark.gov.uk or call</a>"
+        "<a href=\"mailto:housingfraud@southwark.gov.uk\">housingfraud@southwark.gov.uk</a>"
       ]
     }
   },
@@ -94,6 +94,10 @@
       "2": [
         "<a href=\"https://www.gov.uk/guidance/domestic-private-rented-property-minimum-energy-efficiency-standard-landlord-guidance\">Energy \nPerformance Certificate (EPC) Rating of less than ‘E’</a>"
       ],
+      "3": [
+        "<a href=\"https://www.gov.uk/government/publications/private-rented-sector-minimum-energy-efficiency-standard-exemptions\">GOV.UK website</a>",
+        "<a href=\"https://prsregister.beis.gov.uk/NdsBeisUi/used-service-before\">GOV.UK website.</a>"
+      ],
       "4": [
         "<a href=\"http://www.businesscompanion.info/en/quick-guides/product-safety/goods-in-rented-accommodation\">Business Companion</a>",
         "<a href=\"https://www.southwark.gov.uk/home-owners-services/private-home-owners-and-landlords/private-rented-property-licensing?chapter=7\">Regulatory Reform (Fire \nSafety) Order 2005</a>",
@@ -103,7 +107,7 @@
         "<a href=\"https://www.southwark.gov.uk/bins/lookup\">\uF0B7 The collection days for the refuse and recycling bins for the \nproperty</a>",
         "<a href=\"https://www.southwark.gov.uk/bins-and-recycling/recycling/what-goes-in-recycling\">what they can and can’t recycle</a>",
         "<a href=\"https://www.southwark.gov.uk/bins-and-recycling/bulky-waste-collections\">dispose of bulky waste</a>",
-        "<a href=\"https://www.southwark.gov.uk/bins-and-recycling/\">General waste guidance from the Council’s website</a>"
+        "<a href=\"https://www.southwark.gov.uk/bins-and-recycling/\">General waste guidance</a>"
       ],
       "7": [
         "<a href=\"https://www.southwark.gov.uk/home-owners-services/private-home-owners-and-landlords/private-rented-property-licensing?chapter=7\">Read Southwark’s Standards for \nHMOs here.</a>"
@@ -120,17 +124,16 @@
         "<a href=\"mailto:complaints@southwark.gov.uk\">complaints@southwark.gov.uk</a>"
       ],
       "5": [
-        "<a href=\"http://www.southwark.gov.uk/\">for further details on the above: www.southwark.gov.u</a>"
+        "<a href=\"http://www.southwark.gov.uk/\">www.southwark.gov.uk</a>"
       ],
       "6": [
         "<a href=\"http://thesource/tools-and-resources/promoting-document-accessibility-compliance-southw/\">Document Accessibility Compliance at Southwark.</a>"
       ],
       "10": [
-        "<a href=\"https://www.southwark.gov.uk/council-and-democracy/complaints-comments-and-compliments/arbitration\">panel. For more information on eligibility, please see the Southwark Arbitration page at:</a>",
-        "<a href=\"https://www.southwark.gov.uk/council-and-democracy/complaints-comments-and-compliments/arbitration\">Arbitration - Southwark Council</a>"
+        "<a href=\"https://www.southwark.gov.uk/council-and-democracy/complaints-comments-and-compliments/arbitration\">Arbitration \n- Southwark Council</a>"
       ],
       "11": [
-        "<a href=\"mailto:dpo@southwark.gov.uk\">information is being handled, you may contact the Council’s Data Protection Officer by email dpo@southwark.gov.uk</a>",
+        "<a href=\"mailto:dpo@southwark.gov.uk\">dpo@southwark.gov.uk, or by telephone to 0207 525 5000</a>",
         "<a href=\"http://www.lgo.org.uk/\">www.lgo.org.uk</a>",
         "<a href=\"http://www.housing-ombudsman.org.uk/\">www.housing-ombudsman.org.uk</a>",
         "<a href=\"http://www.gov.uk/guidance/contact-the-building-safety-regulator\">www.gov.uk/guidance/contact-the-building-safety-regulator</a>"
